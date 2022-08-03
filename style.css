@@ -1,3 +1,7 @@
+body{
+  color: #101828;
+    font-family: 'Inter', sans-serif;
+}
 .card-custom {
   overflow: hidden;
   min-height: 450px;
@@ -42,4 +46,30 @@
   width: 100px;
   height: 100px;
   border: 3px solid #fff;
+}
+
+.bg-uba{
+  min-height: 120px;
+  background-image: url(/uba-bg.png);
+  background-size: cover;
+}
+.card-avatar img {
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgba(10, 10, 10, 0.3);
+  position: absolute;
+  top: 75px;
+  left: 5.9rem;
+  width: 80px;
+  height: 80px;
+  border: 3px solid #fff;
+}
+.tx-secondary{
+  color: #5C6881;
+}
+.tx-12{
+font-size: 0.75rem;
+}
+.bg-footeerr{
+  background-color: #CC0000!important;
+  height: 16px;
 }
