@@ -76,6 +76,9 @@ font-size: 0.75rem;
 .uba-seed{
   width: 3.5rem;
 }
+.qr-code-img{
+  width: 5rem;
+}
     @media (max-width: 767.98px) { 
       .tx-12{
         font-size: 0.875rem!important;
