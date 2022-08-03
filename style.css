@@ -73,3 +73,11 @@ font-size: 0.75rem;
   background-color: #CC0000!important;
   height: 16px;
 }
+.uba-seed{
+  width: 4rem;
+}
+    @media (max-width: 767.98px) { 
+      .tx-12{
+        font-size: 0.875rem!important;
+      }
+    }
